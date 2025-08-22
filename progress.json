@@ -101,5 +101,14 @@
       "You are not ignoring ignore_me.txt"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755848463.672064,
+    "completed_at": 1755848471.301821,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
   }
 ]
